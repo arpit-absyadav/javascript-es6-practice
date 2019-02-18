@@ -27,6 +27,11 @@ let Stack = function() {
   this.peek = () => {
     return this.storage[this.count - 1];
   };
+
+  // show the struture of stack
+  this.view = () => {
+    return this.storage;
+  };
 };
 
 // Implemantation
@@ -41,3 +46,5 @@ console.log(myStack.peek()); // undefined
 myStack.push('Arpit');
 myStack.push('Yadav');
 console.log(myStack.peek()); // yadav (LIFO)
+
+console.log(myStack.view());
