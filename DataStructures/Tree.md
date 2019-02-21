@@ -1,16 +1,16 @@
 ⭐️ Contents (link to code after title) ⭐️
 
-⌨️ [Stacks (00:21)](https://www.youtube.com/redirect?event=video_description&v=t2CEgPsws3U&redir_token=M-rJrQnwRX21RMsNk3eOtIsVWRx8MTU1MDg1MjU2OUAxNTUwNzY2MTY5&q=https%3A%2F%2Fcodepen.io%2Fbeaucarnes%2Fpen%2FyMBGbR%3Feditors%3D0012)
+⌨️ [Stacks ](https://www.youtube.com/redirect?event=video_description&v=t2CEgPsws3U&redir_token=M-rJrQnwRX21RMsNk3eOtIsVWRx8MTU1MDg1MjU2OUAxNTUwNzY2MTY5&q=https%3A%2F%2Fcodepen.io%2Fbeaucarnes%2Fpen%2FyMBGbR%3Feditors%3D0012)
 
-⌨️ [Sets (09:03)](https://www.youtube.com/redirect?event=video_description&v=t2CEgPsws3U&redir_token=M-rJrQnwRX21RMsNk3eOtIsVWRx8MTU1MDg1MjU2OUAxNTUwNzY2MTY5&q=https%3A%2F%2Fcodepen.io%2Fbeaucarnes%2Fpen%2FdvGeeq%3Feditors%3D0012)
+⌨️ [Sets ](https://www.youtube.com/redirect?event=video_description&v=t2CEgPsws3U&redir_token=M-rJrQnwRX21RMsNk3eOtIsVWRx8MTU1MDg1MjU2OUAxNTUwNzY2MTY5&q=https%3A%2F%2Fcodepen.io%2Fbeaucarnes%2Fpen%2FdvGeeq%3Feditors%3D0012)
 
-⌨️ [Queues & Priority Queues (19:24)](https://www.youtube.com/redirect?event=video_description&v=t2CEgPsws3U&redir_token=M-rJrQnwRX21RMsNk3eOtIsVWRx8MTU1MDg1MjU2OUAxNTUwNzY2MTY5&q=https%3A%2F%2Fcodepen.io%2Fbeaucarnes%2Fpen%2FQpaQRG%3Feditors%3D0012)
+⌨️ [Queues & Priority Queues ](https://www.youtube.com/redirect?event=video_description&v=t2CEgPsws3U&redir_token=M-rJrQnwRX21RMsNk3eOtIsVWRx8MTU1MDg1MjU2OUAxNTUwNzY2MTY5&q=https%3A%2F%2Fcodepen.io%2Fbeaucarnes%2Fpen%2FQpaQRG%3Feditors%3D0012)
 
-⌨️ [Binary Search Tree (26:03)](https://www.youtube.com/redirect?event=video_description&v=t2CEgPsws3U&redir_token=M-rJrQnwRX21RMsNk3eOtIsVWRx8MTU1MDg1MjU2OUAxNTUwNzY2MTY5&q=https%3A%2F%2Fcodepen.io%2Fbeaucarnes%2Fpen%2FryKvEQ%3Feditors%3D0011)
+⌨️ [Binary Search Tree ](https://www.youtube.com/redirect?event=video_description&v=t2CEgPsws3U&redir_token=M-rJrQnwRX21RMsNk3eOtIsVWRx8MTU1MDg1MjU2OUAxNTUwNzY2MTY5&q=https%3A%2F%2Fcodepen.io%2Fbeaucarnes%2Fpen%2FryKvEQ%3Feditors%3D0011)
 
-⌨️ [Binary Search Tree: Traversal & Height (39:34)](https://www.youtube.com/redirect?event=video_description&v=t2CEgPsws3U&redir_token=M-rJrQnwRX21RMsNk3eOtIsVWRx8MTU1MDg1MjU2OUAxNTUwNzY2MTY5&q=https%3A%2F%2Fcodepen.io%2Fbeaucarnes%2Fpen%2FryKvEQ%3Feditors%3D0011)
+⌨️ [Binary Search Tree: Traversal & Height ](https://www.youtube.com/redirect?event=video_description&v=t2CEgPsws3U&redir_token=M-rJrQnwRX21RMsNk3eOtIsVWRx8MTU1MDg1MjU2OUAxNTUwNzY2MTY5&q=https%3A%2F%2Fcodepen.io%2Fbeaucarnes%2Fpen%2FryKvEQ%3Feditors%3D0011)
 
-⌨️ [Hash Tables (53:19)](https://www.youtube.com/redirect?event=video_description&v=t2CEgPsws3U&redir_token=M-rJrQnwRX21RMsNk3eOtIsVWRx8MTU1MDg1MjU2OUAxNTUwNzY2MTY5&q=https%3A%2F%2Fcodepen.io%2Fbeaucarnes%2Fpen%2FVbYGMb%3Feditors%3D0012)
+⌨️ [Hash Tables](https://www.youtube.com/redirect?event=video_description&v=t2CEgPsws3U&redir_token=M-rJrQnwRX21RMsNk3eOtIsVWRx8MTU1MDg1MjU2OUAxNTUwNzY2MTY5&q=https%3A%2F%2Fcodepen.io%2Fbeaucarnes%2Fpen%2FVbYGMb%3Feditors%3D0012)
 
 ⌨️ [Linked List](https://www.youtube.com/redirect?event=video_description&v=t2CEgPsws3U&redir_token=M-rJrQnwRX21RMsNk3eOtIsVWRx8MTU1MDg1MjU2OUAxNTUwNzY2MTY5&q=https%3A%2F%2Fcodepen.io%2Fbeaucarnes%2Fpen%2FybOvBq%3Feditors%3D0011)
 
